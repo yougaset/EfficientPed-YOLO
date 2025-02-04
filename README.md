@@ -160,5 +160,3 @@ results.show()
 | **2. 评估模型** | `python src/evaluate.py` | mAP, Precision, Recall |
 | **3. 量化模型** | `python src/quantization.py` | `results/models/best_quantized.pt` |
 | **4. 推理测试** | `model("test.jpg")` | 显示行人检测结果 |
-
-📢 **现在你可以训练自己的行人检测模型了！** 🚀🔥
